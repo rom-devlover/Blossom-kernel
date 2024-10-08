@@ -1,7 +1,7 @@
 # Blossom-kernel
 Name : Nigo  
 Supported Device : Blossom  
-Variant : Ksu  
+Variant : Ksu || Non Ksu  
 Maintainer : @fukaime 
 
 # Notes
@@ -14,4 +14,4 @@ Maintainer : @fukaime
 
 # Download Link :
 Ksu :  https://devuploads.com/8xnzclcjbbtc  
-Non Ksu :  
+Non Ksu :  https://devuploads.com/gbqxevzedeu6
