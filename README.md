@@ -1,8 +1,8 @@
 # Blossom-kernel
-Name : Nigo
-Supported Device : Blossom
-Variant : Ksu
-Maintainer : @fukaime
+Name : Nigo  
+Supported Device : Blossom  
+Variant : Ksu  
+Maintainer : @fukaime 
 
 # Notes
 
@@ -13,4 +13,5 @@ Maintainer : @fukaime
 3: Works only on R Vendor or Miui 12.5 firmware based roms.
 
 # Download Link :
-https://devuploads.com/8xnzclcjbbtc
+Ksu :  https://devuploads.com/8xnzclcjbbtc  
+Non Ksu :  
