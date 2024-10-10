@@ -13,7 +13,7 @@ Maintainer : @fukaime
 3: Works only on R Vendor or Miui 12.5 firmware based roms.
 
 # Download Link :
-Ksu :  https://devuploads.com/8xnzclcjbbtc  
+Ksu : https://hyp.sh/iSfU1     
 Non Ksu :  https://devuploads.com/gbqxevzedeu6
 
  # Contact :
