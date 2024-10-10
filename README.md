@@ -14,7 +14,7 @@ Maintainer : @fukaime
 
 # Download Link :
 Ksu : https://hyp.sh/iSfU1     
-Non Ksu :  https://devuploads.com/gbqxevzedeu6
+Non Ksu : https://hyp.sh/gis4gx8I
 
  # Contact :
  Telegram Channel :: 
